@@ -104,7 +104,7 @@
 
 ###
 
-<p align="left">[EN]</p>
+<h3 align="left">[EN]</h3>
 
 <h3 align="left">To know about my previous proyects, check my portfolio: https://candeegtz.github.io/mi-portfolio</h3>
 
@@ -120,18 +120,18 @@
 
 ###
 
-<p align="left">[ES]</p>
+<h3 align="left">[ES]</h3>
 
 <h3 align="left">Para conocer mis proyectos anteriores, échale un vistazo a mi portafolio: https://candeegtz.github.io/mi-portfolio</h3>
 
 <p align="left">Actualmente, estoy trabajando en dos proyectos:</p>
 
 <p align="left">
-🚜 **Tractor Amarillo - Jardinería virtual**: Desarrollo de una plataforma de comercio electrónico completa especializada en la venta de productos agrícolas (semillas, herramientas, etc.). Este proyecto se está construyendo usando Python con el framework Django para un desarrollo back-end robusto. La plataforma está desplegada usando Render. Aquí está la primera versión desplegada: https://tractor-amarillo.onrender.com.
+🚜 Tractor Amarillo - Jardinería virtual: Desarrollo de una plataforma de comercio electrónico completa especializada en la venta de productos agrícolas (semillas, herramientas, etc.). Este proyecto se está construyendo usando Python con el framework Django para un desarrollo back-end robusto. La plataforma está desplegada usando Render. Aquí está la primera versión desplegada: https://tractor-amarillo.onrender.com.
 </p>
 
 <p align="left">
-🍺 **cerveza-hub**: Versionado de un sistema de recolección de datos adaptado a datasets csv. En este proyecto grupal me encuentro desarollando el listado de recomendación de datasets, en la que empleo técnicas NPL. Aquí la primera versión desplegada: https://cerveza-hub-1.onrender.com .
+🍺 cerveza-hub: Versionado de un sistema de recolección de datos adaptado a datasets csv. En este proyecto grupal me encuentro desarollando el listado de recomendación de datasets, en la que empleo técnicas NPL. Aquí la primera versión desplegada: https://cerveza-hub-1.onrender.com .
 </p>
 
 ###
