@@ -100,19 +100,19 @@
 
 ###
 
-<h2 align="left">My previous proyects</h2>
+<h2 align="left">My proyects</h2>
 
 ###
 
 <p align="left">[EN]</p>
 
-<h3 To know about my previus proyects, check my portfolio: https://candeegtz.github.io/mi-portfolio) </h3>
+<h3 align="left">To know about my previous proyects, check my **[portfolio]**(https://candeegtz.github.io/mi-portfolio).</h3>
+
+###
 
 <p align="left">[ES]</p>
 
-<h3 Para conocer mis proyectos anteriores, échale un vistazo a mi portafolio: https://candeegtz.github.io/mi-portfolio </h3>
-
-<h2 align="left">My proyects</h2>
+<h3 align="left">Para conocer mis proyectos anteriores, échale un vistazo a mi **[portafolio]**(https://candeegtz.github.io/mi-portfolio).</h3>
 
 <p align="left">[EN]</p>
 
