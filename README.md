@@ -111,11 +111,11 @@
 <p align="left">At the moment, I´m working at two proyects:</p>
 
 <p align="left">
-🚜 **Tractor Amarillo - Garden Virtual Shop**: Development of a complete e-commerce platform specializing in the sale of agricultural products (seeds, tools, etc.). This project is being built using Python with the Django framework for robust back-end development. The platform is deployed using Render. Here's the first version deployed: https://tractor-amarillo.onrender.com .
+🚜 Tractor Amarillo - Garden Virtual Shop: Development of a complete e-commerce platform specializing in the sale of agricultural products (seeds, tools, etc.). This project is being built using Python with the Django framework for robust back-end development. The platform is deployed using Render. Here's the first version deployed: https://tractor-amarillo.onrender.com .
 </p>
 
 <p align="left">
-🍺 **cerveza-hub**: Adaptation from a data collection system adapted for CSV datasets. I am currently focused on developing the dataset recommendation list, which requires the use of Natural Language Processing (NLP) techniques. The first version of the system has been deployed and is available here: https://cerveza-hub-1.onrender.com .
+🍺 cerveza-hub: Adaptation from a data collection system adapted for CSV datasets. I am currently focused on developing the dataset recommendation list, which requires the use of Natural Language Processing (NLP) techniques. The first version of the system has been deployed and is available here: https://cerveza-hub-1.onrender.com .
 </p>
 
 ###
