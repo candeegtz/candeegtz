@@ -108,7 +108,7 @@
 
 To know about my previus proyects, check my **[portfolio](https://candeegtz.github.io/mi-portfolio)**.
 
-At the moment, I´m working at two proyects:
+<p align="left">At the moment, I´m working at two proyects:</p>
 🚜 **Tractor Amarillo - Garden Virtual Shop**: Development of a complete e-commerce platform specializing in the sale of agricultural products (seeds, tools, etc.). This project is being built using Python with the Django framework for robust back-end development. The platform is deployed using Render. Here's the first version deployed: **[Tractor amarillo - first version](https://tractor-amarillo.onrender.com)**.
 
 🍺**cerveza-hub**: Adaptation from a data collection system adapted for CSV datasets. I am currently focused on developing the dataset recommendation list, which requires the use of Natural Language Processing (NLP) techniques. The first version of the system has been deployed and is available here: **[cerveza -hub -1 - first version](https://cerveza-hub-1.onrender.com)**.
@@ -119,7 +119,7 @@ At the moment, I´m working at two proyects:
 
 Para conocer mis proyectos anteriores, échale un vistazo a mi **[portafolio](https://candeegtz.github.io/mi-portfolio)**.
 
-Actualmente, estoy trabajando en dos proyectos:
+<p align="left">Actualmente, estoy trabajando en dos proyectos:</p>
 🚜 **Tractor Amarillo - Jardinería virtual**: Desarrollo de una plataforma de comercio electrónico completa especializada en la venta de productos agrícolas (semillas, herramientas, etc.). Este proyecto se está construyendo usando Python con el framework Django para un desarrollo back-end robusto. La plataforma está desplegada usando Render. Aquí está la primera versión desplegada: **[Tractor amarillo - primera versión](https://tractor-amarillo.onrender.com)**.
 
 🍺**cerveza-hub**: Versionado de un sistema de recolección de datos adaptado a datasets csv. En este proyecto grupal me encuentro desarollando el listado de recomendación de datasets, en la que empleo técnicas NPL. Aquí la primera versión desplegada: **[cerveza hub - 1 - primera versión](https://cerveza-hub-1.onrender.com)**.
