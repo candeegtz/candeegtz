@@ -104,15 +104,11 @@
 
 ###
 
-<p align="left">[EN]</p>
-
-<h3 align="left">To know about my previous proyects, check my **[portfolio]**(https://candeegtz.github.io/mi-portfolio).</h3>
+<h3 align="left"> [EN] To know about my previous proyects, check my portfolio: https://candeegtz.github.io/mi-portfolio).</h3>
 
 ###
 
-<p align="left">[ES]</p>
-
-<h3 align="left">Para conocer mis proyectos anteriores, échale un vistazo a mi **[portafolio]**(https://candeegtz.github.io/mi-portfolio).</h3>
+<h3 align="left"> [ES] Para conocer mis proyectos anteriores, échale un vistazo a mi portafolio: https://candeegtz.github.io/mi-portfolio).</h3>
 
 <p align="left">[EN]</p>
 
