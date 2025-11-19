@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">📚 Estudiante de último año Ingeniería del software<br>✨ Principalmente interesada en el procesamiento del lenguaje (NLP), pero con muchas ganas de aprender sobre otros campos de la IA.<br>🎯 Mi objetico actual es conseguir unas prácticas en las que pueda aplicar mis conocimientos y aprender de profesionales del sector.<br>👩‍💻 Actualmente estoy trabajando con django, docker, flask...</p>
+<p align="left">📚 Estudiante de último año Ingeniería del software<br>✨ Principalmente interesada en el procesamiento del lenguaje (NLP), pero con muchas ganas de aprender sobre otros campos de la IA.<br>🎯 Mi objetico actual es conseguir unas prácticas en las que pueda aplicar mis conocimientos y aprender de profesionales del sector.<br>👩́💻 Actualmente estoy trabajando con django, docker, flask...</p>
 
 ###
 
@@ -106,17 +106,23 @@
 
 <p align="left">[EN]</p>
 
-###
+To know about my previus proyects, check my **[portfolio](https://candeegtz.github.io/mi-portfolio)**.
 
-<p align="left">To know about my previus proyects, check my **[portfolio](https://candeegtz.github.io/mi-portfolio)**.<br><br>At the moment, I´m working at two proyects:<br>🚜 **Tractor Amarillo - Garden Virtual Shop**: Development of a complete e-commerce platform specializing in the sale of agricultural products (seeds, tools, etc.). This project is being built using Python with the Django framework for robust back-end development. The platform is deployed using Render. Here's the first version deployed: [Tractor amarillo - first version](https://tractor-amarillo.onrender.com).<br><br>🍺**cerveza-hub**: Adaptation from a data collection system adapted for CSV datasets. I am currently focused on developing the dataset recommendation list, which requires the use of Natural Language Processing (NLP) techniques. The first version of the system has been deployed and is available here: [cerveza -hub -1 - first version](https://cerveza-hub-1.onrender.com).</p>
+At the moment, I´m working at two proyects:
+🚜 **Tractor Amarillo - Garden Virtual Shop**: Development of a complete e-commerce platform specializing in the sale of agricultural products (seeds, tools, etc.). This project is being built using Python with the Django framework for robust back-end development. The platform is deployed using Render. Here's the first version deployed: **[Tractor amarillo - first version](https://tractor-amarillo.onrender.com)**.
+
+🍺**cerveza-hub**: Adaptation from a data collection system adapted for CSV datasets. I am currently focused on developing the dataset recommendation list, which requires the use of Natural Language Processing (NLP) techniques. The first version of the system has been deployed and is available here: **[cerveza -hub -1 - first version](https://cerveza-hub-1.onrender.com)**.
 
 ###
 
 <p align="left">[ES]</p>
 
-###
+Para conocer mis proyectos anteriores, échale un vistazo a mi **[portafolio](https://candeegtz.github.io/mi-portfolio)**.
 
-<p align="left">Para conocer mis proyectos anteriores,  échale un vistazo a mi **[portafolio](https://candeegtz.github.io/mi-portfolio)**.<br><br>Actualmente, estoy trabajando en dos proyectos:<br>🚜 **Tractor Amarillo - Jardinería virtual**: Desarrollo de una plataforma de comercio electrónico completa especializada en la venta de productos agrícolas (semillas, herramientas, etc.). Este proyecto se está construyendo usando Python con el framework Django para un desarrollo back-end robusto. La plataforma está desplegada usando Render. Aquí está la primera versión desplegada: [Tractor amarillo - primera versión](https://tractor-amarillo.onrender.com).<br><br>🍺**cerveza-hub**: Versionado de un sistema de recolección de datos adaptado a datasets csv. En este proyecto grupal me encuentro desarollando el listado de recomendación de datasets, en la que empleo técnicas NPL. Aquí la primera versión desplegada: [cerveza hub - 1 - primera versión](https://cerveza-hub-1.onrender.com).</p>
+Actualmente, estoy trabajando en dos proyectos:
+🚜 **Tractor Amarillo - Jardinería virtual**: Desarrollo de una plataforma de comercio electrónico completa especializada en la venta de productos agrícolas (semillas, herramientas, etc.). Este proyecto se está construyendo usando Python con el framework Django para un desarrollo back-end robusto. La plataforma está desplegada usando Render. Aquí está la primera versión desplegada: **[Tractor amarillo - primera versión](https://tractor-amarillo.onrender.com)**.
+
+🍺**cerveza-hub**: Versionado de un sistema de recolección de datos adaptado a datasets csv. En este proyecto grupal me encuentro desarollando el listado de recomendación de datasets, en la que empleo técnicas NPL. Aquí la primera versión desplegada: **[cerveza hub - 1 - primera versión](https://cerveza-hub-1.onrender.com)**.
 
 ###
 
@@ -136,9 +142,6 @@
 ###
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=candeegtz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candeegtz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=candeegtz&hide_title=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=candeegtz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
